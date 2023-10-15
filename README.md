@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cyuzuzo Bienvenu
-- 👀 I’m interested in becoming a Full Stack Developer 
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on front-end mainly HTML and CSS
+- 👀 I’m an aspiring Software Developer
+- 🌱 Currently learning JavaScript
+- 💞️ I’m looking to collaborate on front-end 
 - 📫 How to reach me:
 - Email: cbienvenu007@gmail.com
 - Tel: +250782218136

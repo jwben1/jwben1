@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on front-end 
 - 📫 How to reach me:
 - Email: cbienvenu007@gmail.com
-- Tel: +250782218136
 - Discord: bien_venu
 
 <!---

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cyuzuzo Bienvenu
-- 👀 I’m an aspiring Software Developer
+- 👀 An aspiring Software Developer based in Rwanda
 - 🌱 Currently learning JavaScript
-- 💞️ I’m looking to collaborate on front-end 
+- 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me:
 - Email: cbienvenu007@gmail.com
 - Discord: bien_venu

@@ -5,16 +5,12 @@
 - 📫 How to reach me:
 - Email: cbienvenu007@gmail.com
 - Discord: bien_venu
-
-Abbreviations used in this repo:
-
-fm: frontend mentor
-
-top: the odin project
-
-dccl: devchallenges
-
-crl: conquering responsive layouts
+  
+ Abbreviations used in this repo:
+- fm: frontend mentor
+- top: the odin project
+- dccl: devchallenges
+- crl: conquering responsive layouts
 
 
 <!---
